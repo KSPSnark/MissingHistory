@@ -1,0 +1,10 @@
+echo Creating release file structure
+mkdir -p GameData/MissingHistory
+cp ../files/ModuleManager.*.dll GameData
+cp ../files/ModuleManagerLicense.md GameData
+cp ../files/changelog.txt GameData/MissingHistory
+cp ../LICENSE GameData/MissingHistory
+cp ../README.md GameData/MissingHistory
+cp -R ../files/rescaled GameData/MissingHistory
+cp -R ../files/PorkjetParts GameData/MissingHistory
+echo Done.
