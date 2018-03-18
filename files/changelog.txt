@@ -1,2 +1,8 @@
-Release v1.0
+Release v1.1  (2018-03-18)
+* Add "gray/orange" skin for 1.25m tanks, courtesy of Jarin.
+* Add 1.25m engine plate.
+* Update to ModuleManager version 3.0.6.
+
+
+Release v1.0  (2018-03-13)
 * Initial release.
