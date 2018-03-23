@@ -1,3 +1,8 @@
+Release v1.1.1 (2018-03-23)
+* Add missing "white" variant to the fueled 2.5m-3.75m adapter. (Thanks to klesh for calling my attention to this!)
+* Fixed the connector node sizes on the 1.875m battery and reaction wheel (they were size 1, should be size 2)
+
+
 Release v1.1  (2018-03-18)
 * Add "gray/orange" skin for 1.25m tanks, courtesy of Jarin.
 * Add 1.25m engine plate.
