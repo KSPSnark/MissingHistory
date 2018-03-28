@@ -1,3 +1,8 @@
+Release v1.3 (2018-03-27
+* Add 1.875m ore tank.
+* Add 1.875m xenon tank.
+* Add optional "tweaks" config, with a fix for the Cheetah's bottom attachment node.
+
 Release v1.2 (2018-03-24)
 * Add "gray/orange" variant for size 3 Kerbodyne tanks, cloned from 1.875m Making History parts.
 
