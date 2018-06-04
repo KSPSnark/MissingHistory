@@ -1,4 +1,9 @@
-Release v1.3 (2018-03-27
+Release v1.3.1 (2018-06-04)
+* Update to ModuleManager v3.0.7.
+* Add a patch to enable the 1.875m probe core with RemoteTech. (Thanks to Nik kal in the KSP forums for pointing this out.)
+* Add bulkhead profiles for 1.875m nosecones and SRB.
+
+Release v1.3 (2018-03-27)
 * Add 1.875m ore tank.
 * Add 1.875m xenon tank.
 * Add optional "tweaks" config, with a fix for the Cheetah's bottom attachment node.
