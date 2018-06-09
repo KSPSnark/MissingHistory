@@ -1,5 +1,5 @@
 Release v1.3.2 (2018-06-06)
-* Fix a problem with the RemoteTech patch from 1.3.1 which broke JX2Antenna parts and others. (Thanks to Cavscount74 in the KSP forums for catching!)
+* Fix a problem with the RemoteTech patch from 1.3.1 which broke JX2Antenna parts and others. (Thanks to Cavscout74 in the KSP forums for catching!)
 
 Release v1.3.1 (2018-06-04)
 * Update to ModuleManager v3.0.7.
