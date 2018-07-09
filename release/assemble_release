@@ -6,6 +6,7 @@ cp ../files/ModuleManagerLicense.md GameData
 cp ../files/changelog.txt GameData/MissingHistory
 cp ../LICENSE GameData/MissingHistory
 cp ../README.md GameData/MissingHistory
+cp -R ../files/localization GameData/MissingHistory
 cp -R ../files/assets GameData/MissingHistory
 cp -R ../files/rescaled GameData/MissingHistory
 cp -R ../files/PorkjetParts GameData/MissingHistory
