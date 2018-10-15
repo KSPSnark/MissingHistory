@@ -1,3 +1,9 @@
+Release v1.4 (2018-10-15):
+* Remove re-skin of 1.25m tanks, for KSP 1.5 compatibility.
+* Skins *may* be re-added at some future date; this is a quick fix to keep the mod functional in KSP 1.5.
+* Hide the 1.25m engine plate so it's no longer available. This is because a KSP 1.5 physics bug makes it unusable.
+* Hopefully a future KSP patch will fix the bug so that the 1.25m engine plate becomes usable again.
+
 Release v1.3.3 (2018-07-09):
 * Fix a bug in the 1.25m engine plate that incorrectly set its ejection force. (Thanks to wile1411 in the KSP forums for catching!)
 * Enable localization for all parts. (Thanks to github user yalov for suggesting.)
