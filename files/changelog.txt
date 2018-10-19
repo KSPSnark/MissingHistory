@@ -1,3 +1,7 @@
+Release v1.4.1 (2018-10-19):
+* Restore 1.25m engine plate to the mod, having fixed the bug that prevented it from working. (Thanks to JH4C in the KSP forums for detective work that led to the fix!)
+* Update ModuleManager to 3.1.0, the latest version.
+
 Release v1.4 (2018-10-15):
 * Remove re-skin of 1.25m tanks, for KSP 1.5 compatibility.
 * Skins *may* be re-added at some future date; this is a quick fix to keep the mod functional in KSP 1.5.
