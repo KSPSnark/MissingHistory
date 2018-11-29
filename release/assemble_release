@@ -7,9 +7,11 @@ cp ../files/changelog.txt GameData/MissingHistory
 cp ../LICENSE GameData/MissingHistory
 cp ../README.md GameData/MissingHistory
 cp -R ../files/localization GameData/MissingHistory
-cp -R ../files/assets GameData/MissingHistory
+# cp -R ../files/assets GameData/MissingHistory
+cp -R ../files/parts GameData/MissingHistory
 cp -R ../files/rescaled GameData/MissingHistory
 cp -R ../files/PorkjetParts GameData/MissingHistory
+rm -r GameData/MissingHistory/PorkjetParts/FuelTank
 cp -R ../files/patches GameData/MissingHistory
 cp -R ../files/tweaks Optional/GameData/MissingHistory
 echo Done.

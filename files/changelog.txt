@@ -1,3 +1,6 @@
+Release v1.5 (2018-11-29)
+* Add new Mk2-B "Palici" command pod, courtesy of steedcrugeon.
+
 Release v1.4.1 (2018-10-19):
 * Restore 1.25m engine plate to the mod, having fixed the bug that prevented it from working. (Thanks to JH4C in the KSP forums for detective work that led to the fix!)
 * Update ModuleManager to 3.1.0, the latest version.
