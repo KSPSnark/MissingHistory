@@ -1,3 +1,11 @@
+Release v1.6 (2018-12-20)
+* Update for KSP 1.6 compatibility.
+* Reskinned Terrier removed (due to stock revamp).
+* The 2.5m-3.75m adapter tank is removed (since a stock tank got added in this shape).
+* Mk2-B "Palici" command pod now supports "Reversed" control point. Added AttitudeAdjuster compatibility.
+* Tweaked the FL-A10 Adapter to be a small fuel tank (with 0.3 tons of LFO) instead of just a structural part.
+* Update to latest ModuleManager version, 3.1.2.
+
 Release v1.5 (2018-11-29)
 * Add new Mk2-B "Palici" command pod, courtesy of steedcrugeon.
 
