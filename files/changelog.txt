@@ -1,3 +1,7 @@
+Release v1.6.1 (2018-12-24)
+* Move 1.25m engine plate down to "Advanced Construction" (in keeping with the KSP 1.6 parts rebalance).
+* Add a short 1.875m-to-2.5m fuel tank adapter. Thanks to Tonka Crash in the KSP forums for suggesting!
+
 Release v1.6 (2018-12-20)
 * Update for KSP 1.6 compatibility.
 * Reskinned Terrier removed (due to stock revamp).
