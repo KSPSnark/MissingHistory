@@ -1,5 +1,6 @@
-Release v1.7.1 (2019-01-02)
+Release v1.7.2 (2019-01-02)
 * Update the exhaust plume on the KANDL engine (inadvertently omitted from release 1.7).
+* Rename the KANDL engine to avoid colliding with other mods that resurrect this part.
 
 Release v1.7 (2019-01-01)
 * Add 0.625m and 1.875m nuclear engines, with models/textures from Porkjet's "Atomic Age" mod.
