@@ -7,7 +7,8 @@ cp ../files/changelog.txt GameData/MissingHistory
 cp ../LICENSE GameData/MissingHistory
 cp ../README.md GameData/MissingHistory
 cp -R ../files/localization GameData/MissingHistory
-# cp -R ../files/assets GameData/MissingHistory
+mkdir -p GameData/MissingHistory/assets/FX
+cp -R ../files/assets/FX/*.* GameData/MissingHistory/assets/FX
 cp -R ../files/parts GameData/MissingHistory
 cp -R ../files/rescaled GameData/MissingHistory
 cp -R ../files/PorkjetParts GameData/MissingHistory

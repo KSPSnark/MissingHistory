@@ -1,3 +1,7 @@
+Release v1.7 (2019-01-01)
+* Add 0.625m and 1.875m nuclear engines, with models/textures from Porkjet's "Atomic Age" mod.
+* Thanks to JadeOfMaar from the KSP forums for kindly providing a new exhaust plume for the BKN-7!
+
 Release v1.6.1 (2018-12-24)
 * Move 1.25m engine plate down to "Advanced Construction" (in keeping with the KSP 1.6 parts rebalance).
 * Add a short 1.875m-to-2.5m fuel tank adapter. Thanks to Tonka Crash in the KSP forums for suggesting!
