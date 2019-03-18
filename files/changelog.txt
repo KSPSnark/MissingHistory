@@ -1,3 +1,8 @@
+Release v1.7.3 (2019-03-18)
+* ReStock compatibility fix. (Thanks to Nertea for kind assistance!)
+* Update to latest ModuleManager (4.0.2).
+* Fix no-longer-accurate description in 1.25m engine plate. (Thanks to rwilkinson for spotting!)
+
 Release v1.7.2 (2019-01-02)
 * Update the exhaust plume on the KANDL engine (inadvertently omitted from release 1.7).
 * Rename the KANDL engine to avoid colliding with other mods that resurrect this part.
