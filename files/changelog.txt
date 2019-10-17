@@ -1,3 +1,10 @@
+Release v1.8 (2019-10-16)
+* Compatibility update for KSP 1.8.  Changes as follows:
+* Deprecated the two 1.875m nosecones (as those have now been superseded by a stock one).
+* Updated the 1.875m service bay to use the spiffy new model from KSP 1.8.
+* Adjusted the position of the Palici pod's IVA (thanks linuxgurugamer for pointing out & supplying fix)
+* Update to ModuleManager 4.1.0.
+
 Release v1.7.3 (2019-03-18)
 * ReStock compatibility fix. (Thanks to Nertea for kind assistance!)
 * Update to latest ModuleManager (4.0.2).
