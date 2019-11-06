@@ -1,3 +1,6 @@
+Release v1.8.1 (2019-11-06)
+* Remove orange variant of 3.75m tanks, since that's now in stock and MissingHistory's implementation was conflicting with it and causing visual glitches.  (Thanks to webward for reporting!)
+
 Release v1.8 (2019-10-16)
 * Compatibility update for KSP 1.8.  Changes as follows:
 * Deprecated the two 1.875m nosecones (as those have now been superseded by a stock one).
