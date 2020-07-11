@@ -1,3 +1,10 @@
+Release v1.8.2 (2020-07-11)
+* Compatibility update for KSP 1.10.
+* Fix 1.875m reaction wheel and battery, whose IndicatorLights compatibility got broken.
+* Update ReStock+ compatibility.
+* Update to ModuleManager 4.1.4.
+* Thanks to Tonka Crash for supplying most of the fixes!
+
 Release v1.8.1 (2019-11-06)
 * Remove orange variant of 3.75m tanks, since that's now in stock and MissingHistory's implementation was conflicting with it and causing visual glitches.  (Thanks to webward for reporting!)
 

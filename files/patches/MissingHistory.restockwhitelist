@@ -1,13 +1,16 @@
 // Whitelist to enable MissingHistory parts when ReStock is installed.
 // See: https://github.com/PorktoberRevolution/ReStocked/wiki/Asset-Blacklist-and-Whitelist
-Squad/Parts/Aero/cones/ConeA.mu
-Squad/Parts/Aero/cones/ConeB.mu
-Squad/Parts/Aero/cones/ConesDiffuse*.dds
-Squad/Parts/Aero/cones/ConesHeat*.dds
+Squad/Parts/Aero/cones/Assets/ConeA.mu
+Squad/Parts/Aero/cones/Assets/ConeB.mu
+Squad/Parts/Aero/cones/Assets/ConesDiffuse*.dds
+Squad/Parts/Aero/cones/Assets/ConesHeat*.dds
 Squad/Parts/Command/probeStackSmall/
 Squad/Parts/Command/inlineAdvancedStabilizer/
+Squad/Parts/Utility/ServiceBay_v2/Assets/ServiceBay_125_v2.mu
+Squad/Parts/Utility/ServiceBay_v2/Assets/*.png
 Squad/Parts/Utility/ServiceBay/ServiceBay_125.mu
 Squad/Parts/Utility/ServiceBay/*.dds
 Squad/Parts/Engine/solidBoosterBACC/
 Squad/Parts/FuelTank/xenonTankLarge/
 Squad/Parts/Electrical/z-1kBattery/
+Squad/Parts/Resources/SmallTank/
