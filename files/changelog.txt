@@ -1,5 +1,16 @@
+Release v1.9.1 (2020-12-22)
+* Update Palici pod and Stowaway crew cabin to include inventory slots for KSP 1.11 compatibility.
+* Add SEQ-15 Cargo Storage Unit (1.875m container).
+* Delete some temporary files I accidentally included in v1.9.  Oops.
+* Sneak in a bugfix for the stock SEQ-24 container, to make it use size-2 attachment nodes (instead of size 1) since it's a 2.5m part.
+
+
+-- Releases above this line require KSP 1.11 or newer --
+
+
 Release v1.9 (2020-12-21)
 * Add the new "Stowaway" 1.875m crew cabin, courtesy of JadeOfMaar.
+* [BUG] Accidentally included some files that try to add orange variants for Size4 nose code & tank skins that I was testing and didn't mean to actually ship.  DO NOT USE THESE VARIANTS, they don't work right and I didn't mean to release them.
 
 Release v1.8.2 (2020-07-11)
 * Compatibility update for KSP 1.10.
