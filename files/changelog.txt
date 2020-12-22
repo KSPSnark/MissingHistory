@@ -1,3 +1,6 @@
+Release v1.9 (2020-12-21)
+* Add the new "Stowaway" 1.875m crew cabin, courtesy of JadeOfMaar.
+
 Release v1.8.2 (2020-07-11)
 * Compatibility update for KSP 1.10.
 * Fix 1.875m reaction wheel and battery, whose IndicatorLights compatibility got broken.
