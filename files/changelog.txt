@@ -1,3 +1,10 @@
+Release v1.9.3 (2021-06-26)
+* KSP 1.12 compatibility: The 1.25m engine plate is removed (since an equivalent part got added to stock, yay!)
+
+
+-- Releases above this line are for KSP 1.12 or newer --
+
+
 Release v1.9.2 (2020-01-09)
 * Update Stowaway crew cabin to fix a shader bug with ambient light. Thanks to Hex3 for catching and JadeOfMaar for providing a fixed model!
 * KSP 1.11 compatibility: Various MissingHistory parts have been updated for appropriate cargo stowability.
